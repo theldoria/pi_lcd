@@ -1,0 +1,28 @@
+= pi_lcd
+
+* {Homepage}[https://github.com/theldoria/pi_lcd#readme]
+* {Issues}[https://github.com/theldoria/pi_lcd/issues]
+* {Documentation}[http://rubydoc.info/gems/pi_lcd/frames]
+* {Email}[mailto:theldoria at hotmail.com]
+
+== Description
+
+TODO: Description
+
+== Features
+
+== Examples
+
+  require 'pi_lcd'
+
+== Requirements
+
+== Install
+
+  $ gem install pi_lcd
+
+== Copyright
+
+Copyright (c) 2013 Theldoria
+
+See LICENSE.txt for details.
