@@ -17,6 +17,10 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ['lib']
 
+  gem.add_runtime_dependency 'wiringpi'
+  gem.add_runtime_dependency 'i2c'
+  gem.add_runtime_dependency 'pi_piper'
+
   gem.add_development_dependency 'bundler', '~> 1.0'
   gem.add_development_dependency 'rake', '~> 0.8'
   gem.add_development_dependency 'rdoc', '~> 3.0'
